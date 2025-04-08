@@ -5,6 +5,8 @@ You can also optionally select the text from the current cursor position to that
 Works with keybindings and macros.  You can use multiple characters in a keybinding or macro.  
 Works with multiple cursors.  
 
+Note: use `vsce package` to create the vsix file.
+
 -----------
 
 ## Notable Changes in v0.6.0
